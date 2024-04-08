@@ -71,10 +71,13 @@ for (let img of images) {
           img.src = 'wave.png';
           pontu = pontu -250;
           break;
-          case 7,8,9,10:
+          case 10:
           img.src = 'wave.png';
           pontu = pontu -250;
           break;
+          case 11:
+          img.src = 'wave.png';
+          pontu = pontu -250;          
       }      
       //exibir a pontuação no html
       document.getElementById("pontuacao").innerHTML = pontu;
