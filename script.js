@@ -60,23 +60,23 @@ for (let img of images) {
           pontu = pontu + 500;
           break;
           case 7:
-          img.src = 'wave.png';
+          img.src = 'Wave.png';
           pontu = pontu -250;
           break;
           case 8:
-          img.src = 'wave.png';
+          img.src = 'Wave.png';
           pontu = pontu -250;
           break;
           case 9:
-          img.src = 'wave.png';
+          img.src = 'Wave.png';
           pontu = pontu -250;
           break;
           case 10:
-          img.src = 'wave.png';
+          img.src = 'Wave.png';
           pontu = pontu -250;
           break;
           case 11:
-          img.src = 'wave.png';
+          img.src = 'Wave.png';
           pontu = pontu -250;          
       }      
       //exibir a pontuação no html
